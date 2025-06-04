@@ -37,6 +37,7 @@ Dikshitha_Portfolio_Flask/
 - JavaScript
 - Git & GitHub
 
+
 1. Navigate into the folder:
 cd Dikshitha_Portfolio_Flask
 
