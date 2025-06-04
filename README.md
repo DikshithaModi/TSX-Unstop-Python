@@ -37,7 +37,7 @@ Dikshitha_Portfolio_Flask/
 - JavaScript
 - Git & GitHub
 
-- 1. Navigate into the folder:
+1. Navigate into the folder:
 cd Dikshitha_Portfolio_Flask
 
 2.Install Flask:
