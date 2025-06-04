@@ -28,11 +28,6 @@ Dikshitha_Portfolio_Flask/
 │ ├── projects.html
 │ └── contact.html
 └── README.md
-
-yaml
-Copy
-Edit
-
 ---
 
 ## 💡 Technologies Used
