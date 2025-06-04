@@ -36,3 +36,17 @@ Dikshitha_Portfolio_Flask/
 - HTML, CSS, Bootstrap
 - JavaScript
 - Git & GitHub
+
+- 1. Navigate into the folder:
+cd Dikshitha_Portfolio_Flask
+
+2.Install Flask:
+bash
+pip install flask
+
+3.Run the app:
+python app.py
+
+4.Visit in browser:
+http://127.0.0.1:5000/
+
